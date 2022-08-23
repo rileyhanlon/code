@@ -1,0 +1,12 @@
+Campbeltown,Offshore,Planned,370,15
+Aanoch Mor,Onshore,Production,410,12
+Mull,Offshore,Production,390,11
+Kingussie,Onshore,Planned,200,14
+Moray Firth,Offshore,Production,350,9
+Harris,Offshore,Planned,300,15
+Oban,Onshore,Planned,400,12
+Dingwall,Onshore,Production,380,9
+Tobermory,Offshore,Planned,290,12
+Eaglesham,Offshore,Planned,515,7
+Buckie,Onshore,Production,485,11
+St. Abbs,Onshore,Planned,320,10
